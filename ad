@@ -1,0 +1,60 @@
+[33mcommit 5a5b74bf8275304adfbe70ab95ddf7e881ea116d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 4c855aa e7dabbf
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Fri May 13 15:02:25 2022 +0900
+
+    new commit after merge
+
+[33mcommit 4c855aa8c01c5c3cdf91d2c9967c336234b21a42[m
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Fri May 13 14:42:14 2022 +0900
+
+    master Commit
+
+[33mcommit e7dabbf5bdce6b5f65e68c99155033bccf10b127[m[33m ([m[1;32mnodeBranch[m[33m)[m
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Fri May 13 14:40:59 2022 +0900
+
+    nodeBranch Commit
+
+[33mcommit 0dabe13625b1b853b0e6d6e597b1de6dbe8258e5[m
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Fri May 13 14:34:38 2022 +0900
+
+    fixed stash
+
+[33mcommit 21e673dd442dc128cf70d74285f1af4258d0ada8[m[33m ([m[1;31morigin/nodeBranch[m[33m)[m
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Fri May 13 13:52:11 2022 +0900
+
+    node branch commit1
+
+[33mcommit 7a6522dd5079b3e6ec196e9cbef43ef794146b40[m[33m ([m[1;31morigin/master[m[33m, [m[1;32medgeBranch[m[33m)[m
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Fri May 13 13:04:14 2022 +0900
+
+    for stash
+
+[33mcommit af2bdbd8e63e410ccca32ae77fd2834cde68b9f6[m[33m ([m[1;33mtag: V1.1[m[33m)[m
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Thu May 12 17:28:04 2022 +0900
+
+    version1.1
+
+[33mcommit 8448994a44a97886f61c3c9af3eeba5b480b2ac5[m
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Thu May 12 17:27:57 2022 +0900
+
+    version1.0
+
+[33mcommit a40e277f33ccc62a3c40a3ca803552d23dfe0fa0[m
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Thu May 12 17:26:09 2022 +0900
+
+    add edge file
+
+[33mcommit 9b9d79f2a9ec72a5551dbebcc0343cb513237ed5[m
+Author: Sangjun Park <sangjun1997@naver.com>
+Date:   Thu May 12 16:58:56 2022 +0900
+
+    first commit
